@@ -1,0 +1,10 @@
+[Volume Id]
+DistributionGUID={2BA570DA-3549-42C0-911C-027109FF83C3}
+DistPackageGUID={1234B736-31DD-41D6-B676-3B2BE637AE2A}
+DistributionVersion=1.0.0
+DistributionType=MDF
+DistributionLanguage=9
+Volume=1
+TotalNumberOfVolumesInDistribution=1
+ExePath=PAMC-204 v1.0 Installer.exe
+UpdateInfoFile=supportfiles\updateInfo.xml
